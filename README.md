@@ -76,7 +76,7 @@ install.packages("Seurat")
 
 Processed RDS objects (normalized expression matrices, sample metadata with BRETIGEA cell-type scores, DEG tables, WGCNA networks with module assignments, hub gene rankings, GSEA results, TF activity matrices) are deposited at Zenodo:
 
-**DOI:** *[To be added after Zenodo upload]*
+**DOI:** [10.5281/zenodo.20352332](https://doi.org/10.5281/zenodo.20352332)
 
 Raw data sources are publicly available:
 - GSE48350, GSE36980, GSE138852: [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/)
