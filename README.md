@@ -1,7 +1,7 @@
 > **Status (September 2026).** This repository contains an earlier, *exploratory* analysis. It was not published.
 > Its main result was re-tested under a pre-specified analysis plan, extended with a cell-type-level test, donor and age analyses and an independent replication cohort, in:
 > https://github.com/akarakus-bartin/ad-gbm-composition (archived: https://doi.org/10.5281/zenodo.23020912).
-> Claims below (including pathway- and transcription-factor-level results) have not been re-tested in the later study. This repository is kept unchanged for transparency and is read-only.
+> Claims below (including pathway- and transcription-factor-level results) have not been re-tested in the later study. Apart from this note and the removal of an outdated submission-status line, the repository is unchanged; it is kept for transparency and is read-only.
 
 # AD-GBM Comparative Transcriptomics with Cell-Type Deconvolution
 
