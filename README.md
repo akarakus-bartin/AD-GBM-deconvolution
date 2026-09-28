@@ -99,7 +99,7 @@ Raw data sources are publicly available:
 
 If you use this code or its findings, please cite:
 
-> Karakuş A. (2026). Apparent shared signature between Alzheimer's disease and glioblastoma reflects converging neuronal loss, not molecular convergence. *Briefings in Bioinformatics*, [DOI to be assigned].
+> Karakuş A. (2026). AD-GBM comparative transcriptomics with cell-type deconvolution. Exploratory analysis, not published. Please cite the later study instead: https://doi.org/10.5281/zenodo.23020912
 
 ## License
 
